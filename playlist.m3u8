@@ -90,7 +90,7 @@ https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:piff:service:bbc_one_h
 #EXTINF:-1 tvg-id="CNN" tvg-name="CNN International" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/200px-CNN.svg.png" group-title="English | News",CNN International
 https://cnn-cnninternational-1-eu.rakuten.wurl.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="SkyNews" tvg-name="Sky News" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a3/Sky_News_International_logo.svg/200px-Sky_News_International_logo.svg.png" group-title="English | News",Sky News
+#EXTINF:-1 tvg-id="skynews" tvg-name="Sky News" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a3/Sky_News_International_logo.svg/200px-Sky_News_International_logo.svg.png" group-title="English | News",Sky News
 https://skynews-skynewsuk-1-gb.samsung.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="AlJazeeraEn" tvg-name="Al Jazeera English" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6b/Al_Jazeera_English_Logo.png/200px-Al_Jazeera_English_Logo.png" group-title="English | News",Al Jazeera English
