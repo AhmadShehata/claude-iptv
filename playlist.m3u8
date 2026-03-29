@@ -1,0 +1,267 @@
+#EXTM3U x-tvg-url="https://www.epgshare01.online/epg01.xml.gz"
+
+##############################################################
+## ARABIC CHANNELS
+##############################################################
+
+## --- Arabic News ---
+#EXTINF:-1 tvg-id="AlJazeeraAr" tvg-name="Al Jazeera Arabic" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Aljazeera_Arabic.svg/200px-Aljazeera_Arabic.svg.png" group-title="Arabic | News",Al Jazeera Arabic
+https://live-hls-web-aje.getaj.net/AJE/index.m3u8
+
+#EXTINF:-1 tvg-id="AlArabiya" tvg-name="Al Arabiya" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Al_Arabiya_Logo.png/200px-Al_Arabiya_Logo.png" group-title="Arabic | News",Al Arabiya
+https://live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="AlJazeeraMubasher" tvg-name="Al Jazeera Mubasher" tvg-logo="https://upload.wikimedia.org/wikipedia/ar/f/fb/Aljazeera_Mubasher.png" group-title="Arabic | News",Al Jazeera Mubasher
+https://live-hls-web-ajm.getaj.net/AJM/index.m3u8
+
+#EXTINF:-1 tvg-id="France24Ar" tvg-name="France 24 Arabic" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/France_24_logo_2011.svg/200px-France_24_logo_2011.svg.png" group-title="Arabic | News",France 24 Arabic
+https://static.france24.com/live/F24_AR_LO_HLS/live_web.m3u8
+
+#EXTINF:-1 tvg-id="BBCArabic" tvg-name="BBC Arabic" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/BBC_Arabic_TV.svg/200px-BBC_Arabic_TV.svg.png" group-title="Arabic | News",BBC Arabic
+https://vs-cmaf-pushb-ww-live.akamaized.net/x=4/i=urn:bbc:piff:service:bbc_arabic_tv/pc_hd_abr_v2.mpd
+
+## --- Arabic Entertainment ---
+#EXTINF:-1 tvg-id="MBC1" tvg-name="MBC 1" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/0d/MBC1_logo.png/200px-MBC1_logo.png" group-title="Arabic | Entertainment",MBC 1
+https://mbc.live.entriq.net/entriq/live1/hls/MBC1.m3u8
+
+#EXTINF:-1 tvg-id="MBC2" tvg-name="MBC 2" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/00/MBC2_logo.png/200px-MBC2_logo.png" group-title="Arabic | Entertainment",MBC 2
+https://mbc.live.entriq.net/entriq/live1/hls/MBC2.m3u8
+
+#EXTINF:-1 tvg-id="MBCDrama" tvg-name="MBC Drama" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6c/MBC_Drama_Logo.png" group-title="Arabic | Drama",MBC Drama
+https://mbc.live.entriq.net/entriq/live1/hls/MBCDrama.m3u8
+
+#EXTINF:-1 tvg-id="MBCMasr" tvg-name="MBC Masr" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/87/MBC_Masr_Logo.png" group-title="Arabic | Entertainment",MBC Masr
+https://mbc.live.entriq.net/entriq/live1/hls/MBCMasr.m3u8
+
+#EXTINF:-1 tvg-id="MBCMasr2" tvg-name="MBC Masr 2" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a9/MBC_Masr_2_Logo.png/200px-MBC_Masr_2_Logo.png" group-title="Arabic | Entertainment",MBC Masr 2
+https://mbc.live.entriq.net/entriq/live1/hls/MBCMasr2.m3u8
+
+#EXTINF:-1 tvg-id="MBCAction" tvg-name="MBC Action" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/27/MBC_Action_logo.png/200px-MBC_Action_logo.png" group-title="Arabic | Movies",MBC Action
+https://mbc.live.entriq.net/entriq/live1/hls/MBCAction.m3u8
+
+#EXTINF:-1 tvg-id="MBCBollywood" tvg-name="MBC Bollywood" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a7/MBC_Bollywood_Logo.png/200px-MBC_Bollywood_Logo.png" group-title="Arabic | Movies",MBC Bollywood
+https://mbc.live.entriq.net/entriq/live1/hls/MBCBollywood.m3u8
+
+## --- Arabic Movies ---
+#EXTINF:-1 tvg-id="Rotana Cinema" tvg-name="Rotana Cinema" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/ec/Rotana_Cinema_logo.png/200px-Rotana_Cinema_logo.png" group-title="Arabic | Movies",Rotana Cinema
+https://rotana.live.entriq.net/entriq/live/hls/RotanaCinema.m3u8
+
+#EXTINF:-1 tvg-id="RotanaKlassik" tvg-name="Rotana Klassik" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/49/Rotana_Klassik.png" group-title="Arabic | Movies",Rotana Klassik
+https://rotana.live.entriq.net/entriq/live/hls/RotanaKlassik.m3u8
+
+#EXTINF:-1 tvg-id="RotanaMasriya" tvg-name="Rotana Masriya" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6a/Rotana_Masriya_logo.png" group-title="Arabic | Movies",Rotana Masriya
+https://rotana.live.entriq.net/entriq/live/hls/RotanaMasriya.m3u8
+
+## --- Arabic Kids ---
+#EXTINF:-1 tvg-id="MBCKids" tvg-name="MBC 3 (Kids)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/3b/MBC3_logo.png/200px-MBC3_logo.png" group-title="Arabic | Kids",MBC 3 Kids
+https://mbc.live.entriq.net/entriq/live1/hls/MBC3.m3u8
+
+#EXTINF:-1 tvg-id="SpaceToon" tvg-name="Space Toon" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/34/Spacetoon_logo.png/200px-Spacetoon_logo.png" group-title="Arabic | Kids",Space Toon
+https://spacetoon.live.entriq.net/entriq/live/hls/SpaceToon.m3u8
+
+## --- Arabic Sports ---
+#EXTINF:-1 tvg-id="BeInSports1Ar" tvg-name="beIN Sports 1 Arabic" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/17/BeIN_Sports_1_Arabic.png/200px-BeIN_Sports_1_Arabic.png" group-title="Arabic | Sports",beIN Sports 1 Arabic
+https://bein.live.entriq.net/entriq/live/hls/beINSports1AR.m3u8
+
+#EXTINF:-1 tvg-id="BeInSports2Ar" tvg-name="beIN Sports 2 Arabic" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/47/BeIN_Sports_2_Arabic.png/200px-BeIN_Sports_2_Arabic.png" group-title="Arabic | Sports",beIN Sports 2 Arabic
+https://bein.live.entriq.net/entriq/live/hls/beINSports2AR.m3u8
+
+#EXTINF:-1 tvg-id="AbuDhabiSports1" tvg-name="Abu Dhabi Sports 1" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/ba/Abu_Dhabi_Sports_logo.png/200px-Abu_Dhabi_Sports_logo.png" group-title="Arabic | Sports",Abu Dhabi Sports 1
+https://abudhabi.live.entriq.net/entriq/live/hls/ADSports1.m3u8
+
+## --- Arabic Religious ---
+#EXTINF:-1 tvg-id="Iqraa" tvg-name="Iqraa" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/31/Iqraa_logo.svg/200px-Iqraa_logo.svg.png" group-title="Arabic | Religious",Iqraa
+https://iqraa.live.entriq.net/entriq/live/hls/Iqraa.m3u8
+
+#EXTINF:-1 tvg-id="QuranTV" tvg-name="Quran TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Holy_Quran_TV.png/200px-Holy_Quran_TV.png" group-title="Arabic | Religious",Quran TV
+https://quran.live.entriq.net/entriq/live/hls/QuranTV.m3u8
+
+##############################################################
+## ENGLISH CHANNELS
+##############################################################
+
+## --- English News ---
+#EXTINF:-1 tvg-id="BBCWorldNews" tvg-name="BBC World News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/BBC_World_News_2022_%28Boxed%29.svg/200px-BBC_World_News_2022_%28Boxed%29.svg.png" group-title="English | News",BBC World News
+https://vs-cmaf-pushb-ww-live.akamaized.net/x=4/i=urn:bbc:piff:service:bbc_world_service/pc_hd_abr_v2.mpd
+
+#EXTINF:-1 tvg-id="BBCONE" tvg-name="BBC One" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/BBC_One_logo_%282021%29.svg/200px-BBC_One_logo_%282021%29.svg.png" group-title="English | News",BBC One
+https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:piff:service:bbc_one_hd/pc_hd_abr_v2.mpd
+
+#EXTINF:-1 tvg-id="CNN" tvg-name="CNN International" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/200px-CNN.svg.png" group-title="English | News",CNN International
+https://cnn-cnninternational-1-eu.rakuten.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="SkyNews" tvg-name="Sky News" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a3/Sky_News_International_logo.svg/200px-Sky_News_International_logo.svg.png" group-title="English | News",Sky News
+https://skynews-skynewsuk-1-gb.samsung.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="AlJazeeraEn" tvg-name="Al Jazeera English" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6b/Al_Jazeera_English_Logo.png/200px-Al_Jazeera_English_Logo.png" group-title="English | News",Al Jazeera English
+https://live-hls-web-aje.getaj.net/AJE/index.m3u8
+
+#EXTINF:-1 tvg-id="France24En" tvg-name="France 24 English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/France_24_logo_2011.svg/200px-France_24_logo_2011.svg.png" group-title="English | News",France 24 English
+https://static.france24.com/live/F24_EN_LO_HLS/live_web.m3u8
+
+#EXTINF:-1 tvg-id="DWEnglish" tvg-name="DW English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Deutsche_Welle_symbol_2012.svg/200px-Deutsche_Welle_symbol_2012.svg.png" group-title="English | News",DW English
+https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
+
+#EXTINF:-1 tvg-id="NHKWorld" tvg-name="NHK World" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/NHK_World_logo.svg/200px-NHK_World_logo.svg.png" group-title="English | News",NHK World
+https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_1M.m3u8
+
+#EXTINF:-1 tvg-id="CGTN" tvg-name="CGTN" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/4c/CGTN_logo.svg/200px-CGTN_logo.svg.png" group-title="English | News",CGTN
+https://live.cgtn.com/1000e/prog_index.m3u8
+
+#EXTINF:-1 tvg-id="EuroNews" tvg-name="Euronews English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Euronews_logo_2022.svg/200px-Euronews_logo_2022.svg.png" group-title="English | News",Euronews English
+https://rakuten-euronews-1-gb.samsung.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Bloomberg" tvg-name="Bloomberg TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/New_Bloomberg_Logo.svg/200px-New_Bloomberg_Logo.svg.png" group-title="English | News",Bloomberg TV
+https://bloombergtv-bloomberg-1-us.rakuten.wurl.tv/playlist.m3u8
+
+## --- English Entertainment ---
+#EXTINF:-1 tvg-id="BBCTWO" tvg-name="BBC Two" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/BBC_Two_current_logo.svg/200px-BBC_Two_current_logo.svg.png" group-title="English | Entertainment",BBC Two
+https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:piff:service:bbc_two_hd/pc_hd_abr_v2.mpd
+
+#EXTINF:-1 tvg-id="BBCTHREE" tvg-name="BBC Three" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/BBC_Three_logo_2022.svg/200px-BBC_Three_logo_2022.svg.png" group-title="English | Entertainment",BBC Three
+https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:piff:service:bbc_three_hd/pc_hd_abr_v2.mpd
+
+#EXTINF:-1 tvg-id="BBCFOUR" tvg-name="BBC Four" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/BBC_Four_Logo_2021.svg/200px-BBC_Four_Logo_2021.svg.png" group-title="English | Entertainment",BBC Four
+https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:piff:service:bbc_four_hd/pc_hd_abr_v2.mpd
+
+## --- English Movies ---
+#EXTINF:-1 tvg-id="TCMMovies" tvg-name="TCM (Turner Classic Movies)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/TCM_Logo_2019.svg/200px-TCM_Logo_2019.svg.png" group-title="English | Movies",TCM Turner Classic Movies
+https://tcm-tcm-1-us.samsung.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Shout!" tvg-name="Shout! Factory TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/3d/Shout_Factory_TV_logo.png/200px-Shout_Factory_TV_logo.png" group-title="English | Movies",Shout! Factory TV
+https://shoutfactorytv-shoutfactorytv-1-us.samsung.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TubiTV" tvg-name="Tubi TV Free Movies" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Tubi_TV_logo.svg/200px-Tubi_TV_logo.svg.png" group-title="English | Movies",Tubi TV Free Movies
+https://tubi-tubifree-1-us.samsung.wurl.tv/playlist.m3u8
+
+## --- English Sports ---
+#EXTINF:-1 tvg-id="ESPNNews" tvg-name="ESPN News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_Wordmark.svg/200px-ESPN_Wordmark.svg.png" group-title="English | Sports",ESPN News
+https://espnnews-espnnewsus-1-us.samsung.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="BeInSports1En" tvg-name="beIN Sports 1 English" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8e/BeIN_Sports_1_English.png/200px-BeIN_Sports_1_English.png" group-title="English | Sports",beIN Sports 1 English
+https://bein.live.entriq.net/entriq/live/hls/beINSports1EN.m3u8
+
+#EXTINF:-1 tvg-id="SkySportsNews" tvg-name="Sky Sports News" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c8/Sky_Sports_News_2020_logo.svg/200px-Sky_Sports_News_2020_logo.svg.png" group-title="English | Sports",Sky Sports News
+https://skysports-skysportsnews-1-gb.samsung.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="NBALeaguePass" tvg-name="NBA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/03/Nba-tv-logo.png/200px-Nba-tv-logo.png" group-title="English | Sports",NBA TV
+https://nbatv-nbatv-1-us.samsung.wurl.tv/playlist.m3u8
+
+## --- English Kids ---
+#EXTINF:-1 tvg-id="CBeebies" tvg-name="CBeebies" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/CBeebies_2022_logo.svg/200px-CBeebies_2022_logo.svg.png" group-title="English | Kids",CBeebies
+https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:piff:service:cbeebies_hd/pc_hd_abr_v2.mpd
+
+#EXTINF:-1 tvg-id="CBeebiesTwo" tvg-name="CBBC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/CBBC_logo_2022.svg/200px-CBBC_logo_2022.svg.png" group-title="English | Kids",CBBC
+https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:piff:service:cbbc_hd/pc_hd_abr_v2.mpd
+
+## --- English Documentary ---
+#EXTINF:-1 tvg-id="NatGeoWild" tvg-name="Nat Geo Wild" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Nat_Geo_Wild_logo_%28November_2022%29.png/200px-Nat_Geo_Wild_logo_%28November_2022%29.png" group-title="English | Documentary",Nat Geo Wild
+https://natgeowild-natgeowildus-1-us.samsung.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="DiscoveryScience" tvg-name="Discovery Science" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/76/Discovery_Science_logo_%282009%29.png/200px-Discovery_Science_logo_%282009%29.png" group-title="English | Documentary",Discovery Science
+https://discoveryscience-discoveryscience-1-us.samsung.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="HistoryHit" tvg-name="History Hit" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/History_hit_logo.jpg/200px-History_hit_logo.jpg" group-title="English | Documentary",History Hit
+https://historyhit-historyhit-1-gb.samsung.wurl.tv/playlist.m3u8
+
+## --- English Series (Pluto TV Free) ---
+#EXTINF:-1 tvg-id="PlutoTVBigBangTheory" tvg-name="Big Bang Theory (Pluto TV)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/4a/The_Big_Bang_Theory_title_card.png/200px-The_Big_Bang_Theory_title_card.png" group-title="English | Series",Big Bang Theory - Pluto TV
+https://service-stitcher.clusters.pluto.tv/v1/stitch/hls/channel/5d4cd85cd37d56bf3c012fcf/master.m3u8?deviceId=roku&deviceModel=Roku&deviceVersion=unknown&appName=pluto&appVersion=unknown&deviceType=roku&deviceMake=Roku&serverSideAds=true
+
+#EXTINF:-1 tvg-id="PlutoTVCSI" tvg-name="CSI Channel (Pluto TV)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/83/CSI_logo.svg/200px-CSI_logo.svg.png" group-title="English | Series",CSI - Pluto TV
+https://service-stitcher.clusters.pluto.tv/v1/stitch/hls/channel/5d4cd861d37d56bf3c012fd4/master.m3u8?deviceId=roku&deviceModel=Roku&deviceVersion=unknown&appName=pluto&appVersion=unknown&deviceType=roku&deviceMake=Roku&serverSideAds=true
+
+#EXTINF:-1 tvg-id="PlutoTVStarTrek" tvg-name="Star Trek (Pluto TV)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Star_Trek_logo.svg/200px-Star_Trek_logo.svg.png" group-title="English | Series",Star Trek - Pluto TV
+https://service-stitcher.clusters.pluto.tv/v1/stitch/hls/channel/5e1e3b9e66de0f000860f75e/master.m3u8?deviceId=roku&deviceModel=Roku&deviceVersion=unknown&appName=pluto&appVersion=unknown&deviceType=roku&deviceMake=Roku&serverSideAds=true
+
+##############################################################
+## POLISH CHANNELS
+##############################################################
+
+## --- Polish News & Public Broadcasting ---
+#EXTINF:-1 tvg-id="TVP1" tvg-name="TVP 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/TVP1.svg/200px-TVP1.svg.png" group-title="Polish | News",TVP 1
+https://tvpstream.vod.tvp.pl/api/tvp-stream/stream/data?station_code=tvp1
+
+#EXTINF:-1 tvg-id="TVP2" tvg-name="TVP 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/TVP2_logo.svg/200px-TVP2_logo.svg.png" group-title="Polish | Entertainment",TVP 2
+https://tvpstream.vod.tvp.pl/api/tvp-stream/stream/data?station_code=tvp2
+
+#EXTINF:-1 tvg-id="TVPInfo" tvg-name="TVP Info" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/TVP_Info_logo.svg/200px-TVP_Info_logo.svg.png" group-title="Polish | News",TVP Info
+https://tvpstream.vod.tvp.pl/api/tvp-stream/stream/data?station_code=tvp-info
+
+#EXTINF:-1 tvg-id="TVP3" tvg-name="TVP 3 Regionalna" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/TVP3.svg/200px-TVP3.svg.png" group-title="Polish | News",TVP 3
+https://tvpstream.vod.tvp.pl/api/tvp-stream/stream/data?station_code=tvp3
+
+#EXTINF:-1 tvg-id="TVPPolonia" tvg-name="TVP Polonia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/TVP_Polonia_logo.svg/200px-TVP_Polonia_logo.svg.png" group-title="Polish | News",TVP Polonia
+https://tvpstream.vod.tvp.pl/api/tvp-stream/stream/data?station_code=tvp-polonia
+
+## --- Polish Entertainment ---
+#EXTINF:-1 tvg-id="Polsat" tvg-name="Polsat" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Polsat_Logo.png/200px-Polsat_Logo.png" group-title="Polish | Entertainment",Polsat
+https://polsat-polsat-1-pl.samsung.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TVN" tvg-name="TVN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Logo_TVN.svg/200px-Logo_TVN.svg.png" group-title="Polish | Entertainment",TVN
+https://tvn-tvn-1-pl.samsung.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TVN7" tvg-name="TVN 7" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/TVN7_Logo.svg/200px-TVN7_Logo.svg.png" group-title="Polish | Entertainment",TVN 7
+https://tvn7-tvn7-1-pl.samsung.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Polsat2" tvg-name="Polsat 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Polsat2_logo.svg/200px-Polsat2_logo.svg.png" group-title="Polish | Entertainment",Polsat 2
+https://polsat2-polsat2-1-pl.samsung.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TvnStyle" tvg-name="TVN Style" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/TVN_Style_logo.svg/200px-TVN_Style_logo.svg.png" group-title="Polish | Entertainment",TVN Style
+https://tvnstyle-tvnstyle-1-pl.samsung.wurl.tv/playlist.m3u8
+
+## --- Polish Movies & Series ---
+#EXTINF:-1 tvg-id="TVPVod" tvg-name="TVP VOD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/TVP_VOD_logo.svg/200px-TVP_VOD_logo.svg.png" group-title="Polish | Movies",TVP VOD
+https://tvpstream.vod.tvp.pl/api/tvp-stream/stream/data?station_code=tvp-vod
+
+#EXTINF:-1 tvg-id="TVPKultura" tvg-name="TVP Kultura" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/TVP_Kultura_Logo_2017.svg/200px-TVP_Kultura_Logo_2017.svg.png" group-title="Polish | Movies",TVP Kultura
+https://tvpstream.vod.tvp.pl/api/tvp-stream/stream/data?station_code=tvp-kultura
+
+#EXTINF:-1 tvg-id="PolsatFilmHD" tvg-name="Polsat Film HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Polsat_Film_logo.svg/200px-Polsat_Film_logo.svg.png" group-title="Polish | Movies",Polsat Film HD
+https://polsatfilm-polsatfilm-1-pl.samsung.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="PolsatSeries" tvg-name="Polsat Series" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Polsat_Series_logo.svg/200px-Polsat_Series_logo.svg.png" group-title="Polish | Series",Polsat Series
+https://polsatseries-polsatseries-1-pl.samsung.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TVNFabula" tvg-name="TVN Fabuła" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/TVN_Fabula_logo.svg/200px-TVN_Fabula_logo.svg.png" group-title="Polish | Series",TVN Fabula
+https://tvnfabula-tvnfabula-1-pl.samsung.wurl.tv/playlist.m3u8
+
+## --- Polish Sports ---
+#EXTINF:-1 tvg-id="PolsatSport" tvg-name="Polsat Sport" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Polsat_Sport_logo.svg/200px-Polsat_Sport_logo.svg.png" group-title="Polish | Sports",Polsat Sport
+https://polsatsport-polsatsport-1-pl.samsung.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="PolsatSportPremium" tvg-name="Polsat Sport Premium" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Polsat_Sport_Premium_logo.svg/200px-Polsat_Sport_Premium_logo.svg.png" group-title="Polish | Sports",Polsat Sport Premium
+https://polsatsportpremium-polsatsportpremium-1-pl.samsung.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TVPSport" tvg-name="TVP Sport" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/TVP_Sport_logo.svg/200px-TVP_Sport_logo.svg.png" group-title="Polish | Sports",TVP Sport
+https://tvpstream.vod.tvp.pl/api/tvp-stream/stream/data?station_code=tvp-sport
+
+## --- Polish Kids ---
+#EXTINF:-1 tvg-id="MiniMini" tvg-name="MiniMini+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/MiniMini+_logo.svg/200px-MiniMini+_logo.svg.png" group-title="Polish | Kids",MiniMini+
+https://minimini-minimini-1-pl.samsung.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TVPAbc" tvg-name="TVP ABC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/TVP_ABC_logo.svg/200px-TVP_ABC_logo.svg.png" group-title="Polish | Kids",TVP ABC
+https://tvpstream.vod.tvp.pl/api/tvp-stream/stream/data?station_code=tvp-abc
+
+## --- Polish Music ---
+#EXTINF:-1 tvg-id="PolsatMusic" tvg-name="Polsat Music" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Polsat_Music_logo.svg/200px-Polsat_Music_logo.svg.png" group-title="Polish | Music",Polsat Music
+https://polsatmusic-polsatmusic-1-pl.samsung.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="EuropaTV" tvg-name="Europa Plus TV Poland" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Europa_Plus_TV_Logo.png/200px-Europa_Plus_TV_Logo.png" group-title="Polish | Music",Europa Plus TV
+https://europaplus-europaplus-1-pl.samsung.wurl.tv/playlist.m3u8
+
+##############################################################
+## INTERNATIONAL / MULTILINGUAL
+##############################################################
+
+#EXTINF:-1 tvg-id="EuronewsPL" tvg-name="Euronews Polish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Euronews_logo_2022.svg/200px-Euronews_logo_2022.svg.png" group-title="Polish | News",Euronews Polish
+https://rakuten-euronews-7-pl.samsung.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="EuronewsAR" tvg-name="Euronews Arabic" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Euronews_logo_2022.svg/200px-Euronews_logo_2022.svg.png" group-title="Arabic | News",Euronews Arabic
+https://rakuten-euronews-9-ar.samsung.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="RT_Arabic" tvg-name="RT Arabic" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/RT_logo_2023.svg/200px-RT_logo_2023.svg.png" group-title="Arabic | News",RT Arabic
+https://rt-arab.live.entriq.net/entriq/live/hls/RTArabic.m3u8
+
+#EXTINF:-1 tvg-id="RT_English" tvg-name="RT (Russia Today) English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/RT_logo_2023.svg/200px-RT_logo_2023.svg.png" group-title="English | News",RT English
+https://rt-uk.live.entriq.net/entriq/live/hls/RTEnglish.m3u8
