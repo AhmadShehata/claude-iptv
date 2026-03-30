@@ -1,0 +1,31 @@
+#EXTM3U x-tvg-url=“https://www.open-epg.com/files/egypt1.xml.gz,https://www.open-epg.com/files/egypt2.xml.gz,https://www.open-epg.com/files/poland1.xml.gz,https://www.open-epg.com/files/poland2.xml.gz,https://www.open-epg.com/files/qatar1.xml.gz,https://www.open-epg.com/files/qatar2.xml.gz,https://www.open-epg.com/files/qatar3.xml.gz,https://www.open-epg.com/files/qatar4.xml.gz,https://www.open-epg.com/files/qatar5.xml.gz,https://www.open-epg.com/files/qatar6.xml.gz,https://www.open-epg.com/files/saudiarabia1.xml.gz,https://www.open-epg.com/files/saudiarabia2.xml.gz,https://www.open-epg.com/files/saudiarabia3.xml.gz,https://www.open-epg.com/files/saudiarabia4.xml.gz,https://www.open-epg.com/files/uae6.xml.gz,https://iptv-epg.org/files/epg-ae.xml,https://iptv-epg.org/files/epg-eg.xml,https://iptv-epg.org/files/epg-pl.xml,https://iptv-epg.org/files/epg-sa.xml,https://iptv-epg.org/files/epg-gb.xml,https://iptv-epg.org/files/epg-us.xml”
+
+# ============================================================
+
+# EPG SOURCES INCLUDED (21 total)
+
+# ============================================================
+
+# EGYPT:        egypt1.xml.gz | egypt2.xml.gz | epg-eg.xml
+
+# POLAND:       poland1.xml.gz | poland2.xml.gz | epg-pl.xml
+
+# QATAR:        qatar1–6.xml.gz
+
+# SAUDI ARABIA: saudiarabia1–4.xml.gz | epg-sa.xml
+
+# UAE:          uae6.xml.gz | epg-ae.xml
+
+# UK:           epg-gb.xml
+
+# US:           epg-us.xml
+
+# ============================================================
+
+# Add your channel entries below this line:
+
+# Example:
+
+# #EXTINF:-1 tvg-id=“mbc1.sa” tvg-name=“MBC 1” group-title=“Saudi Arabia”,MBC 1
+
+# https://your-stream-url-here
